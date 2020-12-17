@@ -2,8 +2,6 @@
 
 https://coding.imooc.com/class/448.html
 
-
-
 第1章 课程介绍
 
 第2章 性能优化的指标和工具 (告别前端小白，成为大神的必经之路)
@@ -23,3 +21,9 @@ https://coding.imooc.com/class/448.html
 第9章 性能优化问题[**面试**](https://www.javaxxz.com/thread-362320-1-1.html)指南【能胸有成竹的一步】
 
 第10章 互联网外企offer与立足之道【能不能出国，就看这一章了】 
+
+
+
+12.16日开始看，2、8、9
+
+17日，4、5、7
